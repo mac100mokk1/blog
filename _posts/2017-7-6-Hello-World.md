@@ -1,8 +1,8 @@
 ---
 layout: post
-title: はじめまして
+title: はじめまして(2017/8/6)
 ---
 
 とりあえずjekyll-nowを使って見た
 
-date:2017/8/6
+last update:2017/8/6
