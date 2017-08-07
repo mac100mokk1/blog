@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+私の情報
 
-### More Information
+### ひとこと
 
-はじめまして！！！
+初めまして
 
 ### Contact me
 
