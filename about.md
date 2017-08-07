@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-私の情報
-
 ### ひとこと
 
-初めまして
+初めまして???
 
 ### Contact me
 
