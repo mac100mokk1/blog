@@ -20,6 +20,20 @@ title: AozoraEPUB3に対応サイトを自力で追加してみた(2017/9/27)
 ---
 リクエストや問題点等の報告は[ここ](https://github.com/mac100mokk1/add-aozoraEPUB-site/issues)にしていただけると対応するかもしれません  
 
+ToDo
+---
+ルビに対応させたい  
+原因は明らか出るが原因の修正をextract.txtの編集で済ます方法を私は知らない。  
+ソースを見て推測してみると
+`<ruby><rb>るび</rb><rp>(</rp><rt>フリガナ</rt><rp>)</rp></ruby>`  
+や  
+`<ruby><rb>るび</rb><rp></rp><rt>フリガナ</rt><rp></rp></ruby>`  
+であれば問題なくルビに変換されるが、アルファポリスでの書式が
+`<ruby>るび<rt>フリガナ</rt></ruby>`  
+であることが推測できた。  
+はじめてjavaに挑む必要があるかもしれない  
+
+
 
 
 変更履歴
@@ -27,4 +41,4 @@ title: AozoraEPUB3に対応サイトを自力で追加してみた(2017/9/27)
 2017/9/27 作成
 
 
-last update:2017/9/27
+last update:2017/9/29
